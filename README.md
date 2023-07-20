@@ -1,3 +1,5 @@
+## <div align="center"><img style="border-radius: 20px;" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></div>
+
 Sou um desenvolvedor full stack de sites e aplicativos para Android e iOS. Criador de um site de músicas chamado Lettify. Especializado em manutenção de servidores Linux e desenvolvimento de sites em PHP. Fã do velho rock'n'roll, música clássica e um bom café ☕.
 
 Com 7 anos de experiência na área, estou sempre à procura de aprender algo novo neste fantástico e imenso universo que é a tecnologia. 
