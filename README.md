@@ -1,4 +1,6 @@
-## <div align="center"><img style="border-radius: 20px;" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"></div>
+<div align="center"><img src="https://github.com/willdevx/willdevx/blob/main/work.gif"></div>
+
+---
 
 Sou um desenvolvedor full stack de sites e aplicativos para Android e iOS. Criador de um site de músicas chamado Lettify. Especializado em manutenção de servidores Linux e desenvolvimento de sites em PHP. Fã do velho rock'n'roll, música clássica e um bom café ☕.
 
