@@ -1,4 +1,4 @@
-Sou desenvolvedor full stack de sites e aplicativos para Android e iOS. Criador de um site de músicas chamado Lettify. Especializado em manutenção de servidores Linux e desenvolvimento de sites em PHP.
+Sou um desenvolvedor full stack de sites e aplicativos para Android e iOS. Criador de um site de músicas chamado Lettify. Especializado em manutenção de servidores Linux e desenvolvimento de sites em PHP.
 
 ## 🧑‍💻 Stacks e Ferramentas
 + <img height="16" align="bottom" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"> PHP
@@ -10,6 +10,7 @@ Sou desenvolvedor full stack de sites e aplicativos para Android e iOS. Criador 
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg"> Lua
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"> HTML5
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"> CSS / SASS
++ <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg"> Ionic Framework
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"> Bootstrap
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg"> jQuery
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"> WordPress
