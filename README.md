@@ -1,4 +1,6 @@
-Sou um desenvolvedor full stack de sites e aplicativos para Android e iOS. Criador de um site de músicas chamado Lettify. Especializado em manutenção de servidores Linux e desenvolvimento de sites em PHP.
+Sou um desenvolvedor full stack de sites e aplicativos para Android e iOS. Criador de um site de músicas chamado Lettify. Especializado em manutenção de servidores Linux e desenvolvimento de sites em PHP. Fã do velho rock'n'roll, música clássica e um bom café ☕.
+
+Com 7 anos de experiência na área, estou sempre à procura de aprender algo novo neste fantástico e imenso universo que é a tecnologia. 
 
 ## 🧑‍💻 Stacks e Ferramentas
 + <img height="16" align="bottom" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"> PHP
@@ -13,6 +15,8 @@ Sou um desenvolvedor full stack de sites e aplicativos para Android e iOS. Criad
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg"> Ionic Framework
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"> Bootstrap
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg"> jQuery
++ <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"> DigitalOcean
++ <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/OpenCart_icon.svg"> OpenCart
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"> WordPress
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"> Ubuntu
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> VS Code
