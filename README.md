@@ -4,7 +4,7 @@
 
 Olá! Meu nome é William Carneiro, tenho 24 anos e sou um desenvolvedor full stack com 7 anos de experiência. Minha paixão pela tecnologia desde cedo me levou a explorar e me especializar no desenvolvimento web, onde a minha principal linguagem é o PHP 🐘
 
-Trabalho também com a criação de aplicativos híbridos para Android e iOS em Angular com o Ionic Framework.
+Trabalho também com a criação de aplicativos híbridos para Android e iOS em Angular com o Ionic Framework, e possuo conhecimento sólido em manutenção de servidores Linux com Apache e Nginx.
 
 <b>Além de codar...</b> <br>
 + 🎸 Sou um fã do velho rock’n’roll e também aprecio música clássica.
