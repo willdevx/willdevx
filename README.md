@@ -26,6 +26,7 @@ Trabalho também com a criação de aplicativos híbridos para Android e iOS em 
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg"> DigitalOcean
 + <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/OpenCart_icon.svg"> OpenCart
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg"> WordPress
++ <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg"> macOS
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg"> Ubuntu
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"> VS Code
 + <img height="16" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"> Docker
